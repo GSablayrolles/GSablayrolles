@@ -48,3 +48,9 @@ I am a student at ENSEEIHT in Toulouse. I did a two year preparatary for Grandes
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Vscode" **alt="Vscode" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### 🔥 GitHub Stats : 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=GSablayrolles&theme=merko&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=500&sideNums=EB5454&fire=EB9F29&dates=1097AD" alt="GitHub Streak" /></a>
+
