@@ -5,10 +5,10 @@
     <a href="https://linkedin.com/in/guillaume-sablayrolles">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="your-youtube-URL">
-      <img src="https://img.shields.io/badge/Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Youtube Badge"/>
+    <a href="mailto:g.sablayrolles+github@proton.me">
+      <img src="https://img.shields.io/badge/Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail Badge"/>
     </a>
-    <a href="your-twitter-URL">
+    <a href="https://github.com/GSablayrolles">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
