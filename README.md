@@ -26,13 +26,13 @@
 ---
 
 ### About me : 
-I am a student at ENSEEIHT in Toulouse. I did a two year preparatary for Grandes Ecoles before. I am curious and I enjoy learning new skills ! 
+I am a student in Software Engineering at ENSEEIHT in Toulouse. I did a two year preparatary for Grandes Ecoles before. I am curious and I enjoy learning new skills ! 
 
 - 🔭 I’m a Computer Science Student and I would like to become a Software Engineer
 
-- 🌱 Learning FullStack Development 
+- 🌱 Learning Software Engineering
 
-- ⚡ Mountain Biking 🚵‍♂️, Playing Bass Guitar 🎸, Video Games 🕹️
+- ⚡ Photography 📸, Playing Bass Guitar 🎸, Mountain Biking 🚵‍♂️, Video Games 🕹️
   
 - 📫 How to reach me : [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillaume-sablayrolles/)
 
